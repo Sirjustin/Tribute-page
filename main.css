@@ -1,0 +1,23 @@
+body {
+    background-color: seashell;
+     color:black;
+}
+
+
+h1 {
+    color: #000000;
+     text-transform: uppercase;
+    
+font-family: sans-serif;
+}
+
+h2 {
+color: #333333;
+font-family: monospace;
+}
+img {
+   padding:1px;
+   border:1px solid blue;
+   background-color:yellow;
+    border-radius: 50%;
+}
